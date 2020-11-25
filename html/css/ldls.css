@@ -38,6 +38,16 @@ img{
     font-weight: bold;
 }
 
+.vuelta_indice{
+    margin-right: 3%;
+    margin-left: 3%;
+    color: black;
+}
+
+.vuelta_indice:hover{
+    color: gray;
+}
+
 .link:hover{
     background-color: rgb(109, 109, 109);
 }
